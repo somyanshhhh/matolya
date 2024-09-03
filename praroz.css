@@ -41,6 +41,8 @@ body{
 
 .main{
     color: white;
+    justify-content: center;
+    text-align: center;
 }
 
 .head {
@@ -55,3 +57,6 @@ body{
     opacity: .7; 
     
   }
+.JOINUS {
+    font-size: 30px;
+}
