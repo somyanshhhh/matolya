@@ -1,0 +1,57 @@
+body{
+    font-family: 'poppins' , 'sans-serif';
+    overflow: hidden;
+    background-color: rgb(41, 35, 35);
+    background-image: url(backgrounnd1.jpeg);
+}
+.container{
+    height: auto;
+    width: auto;
+
+}
+.bar1 {
+    font-family: 'poppins' , 'sans-serif';
+    overflow: hidden;
+    display: flex;
+    color: white;
+    font-family: 'poppins' , 'sans-serif';
+    overflow: hidden;
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px 0px 0px 200px;
+
+}
+.home{
+    padding: 0px 50px 0px 0px ;
+}
+.about{
+    padding: 0px 50px 0px 0px ;
+}
+.services{
+    padding: 0px 50px 0px 0px ;
+}
+.design{
+    padding: 0px 50px 0px 0px ;
+}
+.form{
+    padding: 40px 0px 0px 200px ;
+}
+
+.main{
+    color: white;
+}
+
+.head {
+    font-size: 60px;
+    padding: 50px 0px 0px 70px;
+}
+.br{
+    color: orange;
+}
+::placeholder {
+    color: white;
+    opacity: .7; 
+    
+  }
